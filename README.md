@@ -1,3 +1,3 @@
 # Apnacollage-demo
 this is my first git repository.<br>
-my name is muhammad zohaib khan.
+Author Name: Muhammad Zohaib khan.
